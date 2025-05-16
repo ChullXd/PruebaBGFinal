@@ -1,0 +1,7 @@
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.csproj.AssemblyReference.cache
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.AssemblyInfoInputs.cache
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.AssemblyInfo.cs
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.csproj.CoreCompileInputs.cache
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.MvcApplicationPartsAssemblyInfo.cs
+C:\PruebaBG\backBG\backBG\obj\Debug\net9.0\backBG.MvcApplicationPartsAssemblyInfo.cache
